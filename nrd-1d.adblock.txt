@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
-! Title: Hagezi "1D" AdBlock List
-! Version: 1760527801 (epoch)
+! Title: Newly Registered Domains "1D" AdBlock List
+! Version: 1760527869 (epoch)
 ! Number of rules: 69993
 !
 ||00001betbr.com^

@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
-! Title: Hagezi "7D" AdBlock List
-! Version: 1760527805 (epoch)
+! Title: Newly Registered Domains "7D" AdBlock List
+! Version: 1760527873 (epoch)
 ! Number of rules: 152569
 !
 ||00000c.com^

@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
-! Title: Hagezi "3D" AdBlock List
-! Version: 1760527802 (epoch)
+! Title: Newly Registered Domains "3D" AdBlock List
+! Version: 1760527870 (epoch)
 ! Number of rules: 15375
 !
 ||000222aa.com^
