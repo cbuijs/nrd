@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Newly Registered Domains "3D" AdBlock List
-! Version: 1760530927 (epoch)
+! Version: 1760551210 (epoch)
 ! Number of rules: 0o0.cc.ua
 18584cb-server.com
 1win-affiliate-program-ru.com
