@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Newly Registered Domains "1D" AdBlock List
-! Version: 1761045143 (epoch)
+! Version: 1761069607 (epoch)
 ! Number of rules: 289
 !
 ||24support-it.ru^

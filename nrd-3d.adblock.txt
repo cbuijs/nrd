@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Newly Registered Domains "3D" AdBlock List
-! Version: 1761045149 (epoch)
+! Version: 1761069612 (epoch)
 ! Number of rules: 1796
 !
 ||01bets-br.com^
