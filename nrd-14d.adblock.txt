@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Newly Registered Domains "14D" AdBlock List
-! Version: 1761392415 (epoch)
+! Version: 1761415281 (epoch)
 ! Number of rules: 73868
 !
 ||001win-online.com^

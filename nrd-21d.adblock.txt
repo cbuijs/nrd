@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Newly Registered Domains "21D" AdBlock List
-! Version: 1761392443 (epoch)
+! Version: 1761415311 (epoch)
 ! Number of rules: 105596
 !
 ||001bet-d.com^

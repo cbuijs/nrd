@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Newly Registered Domains "1D" AdBlock List
-! Version: 1761392346 (epoch)
+! Version: 1761415208 (epoch)
 ! Number of rules: 1155
 !
 ||19north-global.com^

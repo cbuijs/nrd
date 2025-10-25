@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Newly Registered Domains "30D" AdBlock List
-! Version: 1761392480 (epoch)
+! Version: 1761415348 (epoch)
 ! Number of rules: 143968
 !
 ||00-01.org^
